@@ -1,4 +1,4 @@
-baseURL       = "http://example.org/"
+baseURL       = "https://maneeshatf5.github.io/openSourcef5/"
 languageCode  = "en-us"
 title         = "F5 Open Source"
 theme         = "roxo"
